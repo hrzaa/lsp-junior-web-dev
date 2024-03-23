@@ -49,7 +49,7 @@
                     <div class="row g-4 mb-3">
                         <div class="col-lg-3 col-md-2 col-sm-4">
                             <div class="search-box">
-                                <input type="text" class="form-control search" id="search-task-options" placeholder="Cari Judul...." name="keyword" value="{{ $keyword }}">
+                                <input type="text" class="form-control search" id="search-task-options" placeholder="Cari nama...." name="keyword" value="{{ $keyword }}">
                                 <i class="ri-search-line search-icon"></i>
                             </div>
                         </div>
